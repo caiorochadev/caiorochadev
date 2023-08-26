@@ -20,7 +20,7 @@ Desenvolvedor Web.
 </div>
 
  ## Conecte-se comigo
- [![Perfil DIO](https://img.shields.io/badge/-Meu%20Perfil%20na%20DIO-000000?style=for-the-badge)]([https://web.dio.me/users/aristoteles88/](https://www.dio.me/users/CaioRocha_dev))
+[![Perfil DIO](https://img.shields.io/badge/-Meu%20Perfil%20na%20DIO-000000?style=for-the-badge)](https://www.dio.me/users/CaioRocha_dev)  
 <div>
    <a href="https://www.linkedin.com/in/devcaiorocha" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
   <a href="https://instagram.com/caiorochadev" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
